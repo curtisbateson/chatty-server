@@ -1,13 +1,13 @@
 {
   "name": "chatty-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Server for Chatty App",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["chat", "server"],
+  "author": "Curtis Bateson",
   "license": "ISC",
   "dependencies": {
     "express": "4.16.2",
